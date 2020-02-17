@@ -1,11 +1,11 @@
 # Texas Republic
-A website redesign concept for a course project. 
-HTML, CSS, JavaScript, PHP
+<p>A website redesign concept for a course project.</p> 
+<p>HTML, CSS, JavaScript, PHP</p>
 
 <h2>Developed Features</h2> 
 <ol>
  <li>Online Booking</li>
- <li>Crowdsource Form + Email Marketing/li>
+ <li>Crowdsource Form + Email Marketing</li>
  <li>Online Store Mockup</li>
 </ol>
 <h2>See the Live Site</h2> 
